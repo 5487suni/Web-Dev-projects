@@ -1,2 +1,3 @@
 # Newbie-works
-These are some of my works i did from starting while learning web dev.
+These are my works/projects i am building while learning full stack web development.
+Kudos to me!
