@@ -1,3 +1,2 @@
 # Newbie-works
-These are my works/projects i am building while learning full stack web development.
-Kudos to me!
+Hello everyone! This repository consists of projects like portfolio website, Weather app, To-do list app, etc. that includes the implementation of techstack like HTML5, CSS, JS, Nodejs, ExpressJS, EJS, API, etc.
